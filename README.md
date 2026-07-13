@@ -1,2 +1,2 @@
-# Probabilidad-y-estadistica
-Clase de proba :D
+# Probability an stadistics
+Exercises of Probability Class
